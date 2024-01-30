@@ -142,6 +142,14 @@ def main():
 
 if __name__ == "__main__":
     main()
+---------------------------------------------------------------------------------------------------------------------
+(a .bat) file has also been created to make it easier for third parties to access and execute the script. 
+
+@echo off
+python "C:\Users\projekt.py"
+pause
+
+---------------------------------------------------------------------------------------------------------------------
 
 Author: Andersson Barbosa
 Note: This code was developed to automate the weekly conversion process when new files arrive and are adapted to readable formats. 
