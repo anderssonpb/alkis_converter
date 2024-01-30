@@ -142,3 +142,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+Author: Andersson Barbosa
+Note: This code was developed to automate the weekly conversion process when new files arrive and are adapted to readable formats. 
